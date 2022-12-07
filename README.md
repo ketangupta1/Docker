@@ -3,7 +3,7 @@
 ## Install docker
 
 
-## Open you app folder and create a new file named Dockerfile. Write the below code
+## Open the app folder which you want to dockerize and create a new file named Dockerfile. Write the below code
 
     FROM python:3.9
 
